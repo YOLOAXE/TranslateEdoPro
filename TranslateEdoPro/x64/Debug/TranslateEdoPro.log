@@ -1,0 +1,8 @@
+﻿  InputManager.cpp
+  ntinfo.cpp
+  proc.cpp
+  translate.cpp
+e:\cplusplusproject\translateedopro\translateedopro\translate.h(4): fatal error C1083: Impossible d'ouvrir le fichier include : 'curl/curl.h' : No such file or directory
+  TranslateEdoPro.cpp
+e:\cplusplusproject\translateedopro\translateedopro\translate.h(4): fatal error C1083: Impossible d'ouvrir le fichier include : 'curl/curl.h' : No such file or directory
+  Génération de code en cours...
